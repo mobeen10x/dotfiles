@@ -2,7 +2,7 @@
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
 
-
+# new things added to tst 
 
 
 # If not running interactively, don't do anything
